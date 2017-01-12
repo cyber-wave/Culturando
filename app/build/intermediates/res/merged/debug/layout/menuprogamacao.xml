@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="?attr/actionBarTheme"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/toolbarProg"
+        android:background="#008B32"
+        />
+
+
+
+
+
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/corSubMenu"
+        android:theme="?attr/actionBarTheme"
+        android:minHeight="?attr/actionBarSize"
+        android:id="@+id/toolbar"
+        android:layout_below="@+id/toolbarProg"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_alignTop="@+id/toolbar"
+        android:layout_alignBottom="@+id/toolbar"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+
+        >
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:layout_width="28dp"
+            android:id="@+id/btnMes"
+            android:scaleType="fitCenter"
+            android:background="@mipmap/ic_menu_prog"
+            android:layout_margin="38dp"
+            android:onClick="chamaTelaMes"
+            android:layout_height="28dp" />
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:id="@+id/btnHoje"
+            android:background="@mipmap/ic_prog_hoje"
+            android:scaleType="fitCenter"
+            android:layout_margin="38dp"
+            android:onClick="chamaTelaHoje"/>
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:id="@+id/btnFavorito"
+            android:background="@mipmap/ic_prog_fav"
+            android:scaleType="fitCenter"
+            android:layout_height="28dp"
+            android:layout_width="28dp"
+            android:layout_margin="38dp"
+            android:onClick="chamaTelaFavorito"/>
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:id="@+id/btnCategoria"
+            android:background="@mipmap/ic_prog_cat"
+            android:scaleType="fitCenter"
+            android:layout_margin="38dp"
+            android:onClick="chamaTelaCategoria"
+            android:layout_width="28dp"
+            android:layout_height="28dp" />
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:text="Programação"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/titulo"
+        android:textColor="@color/corFundo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="9dp"
+        android:textSize="30sp"/>
+
+
+    <ImageButton
+        android:contentDescription="@string/app_name"
+        android:background="@mipmap/ic_voltar"
+        android:scaleType="fitCenter"
+        android:layout_height="28dp"
+        android:layout_width="28dp"
+        android:onClick="chamaTelaPrincipal"
+        android:layout_marginTop="12dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/imageButton" />
+
+
+    <ImageButton
+        android:contentDescription="@string/app_name"
+        android:background="@mipmap/ic_ajuda"
+        android:scaleType="fitCenter"
+        android:layout_height="28dp"
+        android:layout_width="28dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginRight="20dp"
+        android:id="@+id/imageButton2"
+        android:layout_alignTop="@+id/imageButton"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+
+
+
+</RelativeLayout>

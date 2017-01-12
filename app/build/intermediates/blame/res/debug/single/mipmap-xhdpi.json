@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_onibus.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_onibus.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_menu_prog.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_menu_prog.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_menu_radar.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_menu_radar.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_mapa.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_mapa.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_menu_home.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_menu_home.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_prog_cat.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_prog_cat.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_menu_check.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_menu_check.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/img_splash.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/img_splash.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_config.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_config.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_prog_hoje.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_prog_hoje.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_contato.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_contato.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_ajuda.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_ajuda.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_voltar.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_voltar.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_prog_fav.png",
+        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-xhdpi/ic_prog_fav.png"
+    }
+]

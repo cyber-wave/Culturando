@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_85ebc0933f1695a5c695ea9ccc4070c1996e8795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_d7a77db520847c59c70f1dbd6e5c1117385b01f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_8ee00ae27a4198dc7767ff75726b3dfa90140d87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_814a436fefbe29ed7679f67ec2f07362ca8ead6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_0daf8ef9d800d637f6668265c426655989327d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_b6d10784403cdc8c7aed8c3287e818ac0421dd76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_0fcaaa48e976268c3f9c5f7cdcd6f776528a7de4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6b10c9b6762531bcbd2ff14d5e19de3e0fb3141a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_3ab6089384c24ed3efb436680d16691a868b5db0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_7b6e2c4854192aa42deeabcb1331cf71d57cfb6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5e9832058dfc604661f15695cbf7ccdd643405a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_266a4699c204042016820e3a0a12df963f0a13d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_32101a929f748e1b5790c32e28da6ad1cd15ae26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_83a7298eb88bb8c540aa35bcba287f08b147798e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_2a69e7544c8a09d1d4c52d7ff8321bd4367024fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_720cce994fbc9ae67f3987950cc73c96f8a9ed91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_31234325ecf41f28b67ffa0226e7a78312747d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_84f3f65003e3240fce080a0572596da321326105.jar" />
+    </item>
+
+</items>

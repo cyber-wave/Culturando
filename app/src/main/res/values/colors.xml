@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="corFundo">#F5F5F5</color>
+    <color name="corTexto">#5D5D5D</color>
+    <color name="corMenu">#008B32</color>
+    <color name="corSubMenu">#016021</color>
+    <color name="Cor5">#6BC03C</color>
+    <color name="iconeSelecionado">#17E11C</color>
+</resources>
