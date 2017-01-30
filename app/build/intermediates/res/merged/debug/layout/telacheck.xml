@@ -9,7 +9,6 @@
     >
 
 
-
     <include android:id="@+id/menuPrincipal"
         layout="@layout/menuprincipal">
     </include>
@@ -35,7 +34,7 @@
         android:onClick="ajudaCheck"
         android:id="@+id/btnAjudaCheck"
         android:layout_marginEnd="20dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="16dp"
         android:layout_marginRight="20dp"
         android:layout_alignTop="@+id/imageButton"
         android:layout_alignParentRight="true"
@@ -43,5 +42,36 @@
 
 
 
+        <android.support.design.widget.TabLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:tabMode="fixed"
+            android:id="@+id/sliding_tabs"
+            android:layout_below="@+id/titulo">
+
+            <android.support.design.widget.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Desafios"
+                android:id="@+id/btnDesafio"
+                android:onClick="chamaTelaDesafio"/>
+
+            <android.support.design.widget.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnProgresso"
+                android:onClick="chamaTelaProgresso"
+                android:text="Progresso" />
+
+
+
+        </android.support.design.widget.TabLayout>
+
+
+
 
 </RelativeLayout>
+
+
+

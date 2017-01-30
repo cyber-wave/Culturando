@@ -53,7 +53,7 @@
             android:id="@+id/btnMes"
             android:scaleType="fitCenter"
             android:background="@mipmap/ic_menu_prog"
-            android:layout_margin="38dp"
+            android:layout_margin="30dp"
             android:onClick="chamaTelaMes"
             android:layout_height="28dp" />
 
@@ -64,7 +64,7 @@
             android:id="@+id/btnHoje"
             android:background="@mipmap/ic_prog_hoje"
             android:scaleType="fitCenter"
-            android:layout_margin="38dp"
+            android:layout_margin="30dp"
             android:onClick="chamaTelaHoje"/>
 
         <ImageButton
@@ -74,7 +74,7 @@
             android:scaleType="fitCenter"
             android:layout_height="28dp"
             android:layout_width="28dp"
-            android:layout_margin="38dp"
+            android:layout_margin="30dp"
             android:onClick="chamaTelaFavorito"/>
 
         <ImageButton
@@ -82,7 +82,7 @@
             android:id="@+id/btnCategoria"
             android:background="@mipmap/ic_prog_cat"
             android:scaleType="fitCenter"
-            android:layout_margin="38dp"
+            android:layout_margin="30dp"
             android:onClick="chamaTelaCategoria"
             android:layout_width="28dp"
             android:layout_height="28dp" />
@@ -107,10 +107,10 @@
         android:contentDescription="@string/app_name"
         android:background="@mipmap/ic_voltar"
         android:scaleType="fitCenter"
-        android:layout_height="28dp"
-        android:layout_width="28dp"
+        android:layout_height="25dp"
+        android:layout_width="25dp"
         android:onClick="chamaTelaPrincipal"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="16dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
@@ -126,9 +126,9 @@
         android:layout_height="28dp"
         android:layout_width="28dp"
         android:layout_marginEnd="20dp"
-        android:layout_marginTop="1dp"
         android:layout_marginRight="20dp"
-        android:id="@+id/imageButton2"
+        android:onClick="ajudaProg"
+        android:id="@+id/btnAjudaProg"
         android:layout_alignTop="@+id/imageButton"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />

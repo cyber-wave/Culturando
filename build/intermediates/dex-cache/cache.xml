@@ -2,166 +2,661 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_85ebc0933f1695a5c695ea9ccc4070c1996e8795.jar" />
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_176eb85836852c47c950bcba2899f15649690d2b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_d7a77db520847c59c70f1dbd6e5c1117385b01f8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_8ee00ae27a4198dc7767ff75726b3dfa90140d87.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_814a436fefbe29ed7679f67ec2f07362ca8ead6a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_0daf8ef9d800d637f6668265c426655989327d34.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_b6d10784403cdc8c7aed8c3287e818ac0421dd76.jar" />
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_e8c423b20568188c81ea6134f2e56f8d467d9ba0/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_0fcaaa48e976268c3f9c5f7cdcd6f776528a7de4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6b10c9b6762531bcbd2ff14d5e19de3e0fb3141a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_3ab6089384c24ed3efb436680d16691a868b5db0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_7b6e2c4854192aa42deeabcb1331cf71d57cfb6c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5e9832058dfc604661f15695cbf7ccdd643405a9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_266a4699c204042016820e3a0a12df963f0a13d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_32101a929f748e1b5790c32e28da6ad1cd15ae26.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_83a7298eb88bb8c540aa35bcba287f08b147798e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_2a69e7544c8a09d1d4c52d7ff8321bd4367024fe.jar" />
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_eae219adfa5a01d4b03550ac3dadd8f587bffe67/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_5fdcb4511cc69a87a41693243dbb28db42bff291/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_f460d10789c23de40432e1800d34d3d673e7294e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_b70b84c0fb143fcffa1830b2deb30c74d3749d57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.maps.android-android-maps-utils-0.4.4_8f2bf01d6c66d8210c1e1c3fcbebea587b7a8874/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_8597366be155b2efd5f6d82528c5c3e89defb43b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47051aed8630df55e995bdc9ba34d72ffa374e6c">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a90eb89ad3b9e1404fdf01bd5eab69d2756d1026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_4b4499a420bae77fc1309ffb8f032d9f2b20fc86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_a1b2a08c511a759ae868dcd03e94b7c0465e578e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_927db05e84ebdd1cd1be2021c9d5f22c17e95f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_1d972292cf103f008ff6ea6a0978fc23fd62765d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_e095ceef18f7c1df1ea95bf340a2f8fe787c8ad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_40ee69275b283a5ab113a7963259ece435c6f722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_0851392e440d8229a0e598addf58a0ce740f6c09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_ce81f1b6b7a011fb572399d4d02acae4f9e33e02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_af64f18f70daf9b6eb17caec38b19e63c17782b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_bb943f67e438594f19e5df0590797367f95ba076/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_4d5cbdb1ae725f8ec0657cd808a392a33b74aacc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_720cce994fbc9ae67f3987950cc73c96f8a9ed91.jar" />
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_48ea5c0696a4605501c11c2f07bff36db27b54d7/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_31234325ecf41f28b67ffa0226e7a78312747d15.jar" />
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_293f6f896474bdf32fc4514d5a742dce98b2d999/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_83d40a4005eec9dd4cf4393dfd2b36f442450a31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_f2d217c5cf5ccc4a879381c8815e2b4e446baa0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_8c2c2e485bacd3584607c77b1e7ca43dfd533f45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_58f7b2e3bd972de5ecf3476f40e297ca5049957e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_79fc2ad7769ec06bc82bed96b9dacedbcf007140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_db83ece8d65e19e2889a956b9c363333827ff35d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_e17f52e63f550ec21ef150c7649edbda515b6a47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_2adbbb2f001dff9dabffb1d28800018434cba9b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_e6e7867266eb7363569cafa1c40103f0e5a0c701/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_a40d24568e2772aceb3d57ad30876f27e22c3656/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5e88070f397a1de0cb821eafe88fa82f12167643/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_e19c99c92556c96b883e207af802fb3f081a364b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_84f3f65003e3240fce080a0572596da321326105.jar" />
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_d59ce70c3676e46e2a30791c21d287c20d0d575b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_79c6dde9b1b7c5411b7ffb3812f12687b44a19a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_30057f92cc366f481701365ec925bf592a90fff4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_8b4476e9d5db0f0dc1aca073f7d52aadb9952c12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_94d5a3f811e64f352d7129eee4004fce349411ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_f09491d169e109df503c77c87ade91573e83a6d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_bee4d6122d9206461af7a2a83e583506282eac91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_d3585a8810c3af1995bdafaee3f9756abb23b2ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_4ccc5cbd1f678d145245c8f01a4bc7792d20d8b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_0d2259694ede1e76872e45721d0a34ae561aa889/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_786c0320c6332cd51c7cef2142d4f3a018738f58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_c7518df3ab11805788504681ad28370a9ae487b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c88ad3b4e6d9ae70859eec08224659bf33026462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_09bbe840aa2d2fc02709ffb1679e57b07b104e2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_5a51282afa1f6840d4b3834a4b0fbeaec5a79b64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cca8495196b0107b55165d85e604896165061dd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_3ab6089384c24ed3efb436680d16691a868b5db0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ceb44906c3598eefa1d9e3e7f3db754e61bcf15a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1b2b3e3558407b8ea56ceb52a1636001fe90c972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_094f4975fa5a7bd7bba11f79181ec82bdb0705bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_e1b64d3e1b1ef129f83dc0bf10ac5449966a1f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_18192575d2722150d20713a0f59900006a7cce19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_f68ba946454fa16a864ed7df1193691edbb78461/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_8533e33ff63da10ae4b4a812c6be84c1603ad909/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f40630b9f2eee48d46d05ba962028505cd86f9ab">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8d6397b652eac700462b62f62092524dce14650d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_3e83af18e6926a2db0b9fdb3a7e81e7d30c9564e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_0f015a8e2b3e43eeeefb91437a7d46a423f6cf99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_99fade1f5af3f24a3eec3a585cf98c9fd8ca4275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_040aa585ef94482bfb69d9d7105a0b9619a3a305/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_235eb5578ab474f69a00f86b26bd6d644fd8f299/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_98fb22e3052318b470cc2eac9617c570276e0cf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_f89866030153f564f6cc82585f1f453d8634b17f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_751ba03b8566c988a19083f98cda67388f8e33fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_bc78c3dba6057eadc1b62845034eefddfc901221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_3e55474317574a39f92e2fcdee4426bf83bfa4cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_090dc947957a5fe16af14a79f44df5594507a18c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_6a4eef718a392d9cbed9ab48477a1d95fb797c6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_7008c009a5c03908048f9979e654414d15d9a6b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_83ea3cc2bb5220eac60b493332adf0747bd00cde/classes.dex" />
     </item>
 
 </items>

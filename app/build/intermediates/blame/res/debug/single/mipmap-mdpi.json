@@ -1,62 +1,102 @@
 [
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_prog_fav.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_prog_fav.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_radar.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_radar.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_onibus.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_onibus.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_prog.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_prog.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_prog_hoje.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_prog_hoje.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela4.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela4.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_check.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_check.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela1.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela1.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_contato.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_contato.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_config.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_config.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_voltar.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_voltar.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/img_splash.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/img_splash.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_ajuda.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_ajuda.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_contato.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_contato.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_prog_cat.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_prog_cat.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela10.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela10.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_config.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_config.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_prog_fav.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_prog_fav.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_radar.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_radar.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela7.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela7.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/img_splash.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/img_splash.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_mapa.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_mapa.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_ajuda.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_ajuda.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_prog.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_prog.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_prog_cat.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_prog_cat.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_mapa.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_mapa.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_home.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_home.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_home.png",
-        "source": "/home/davitabosa/Documentos/Projetos/Android/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_home.png"
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_onibus.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_onibus.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela6.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela6.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela3.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela3.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela2.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela2.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_check.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_check.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela8.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela8.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_voltar.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_voltar.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela9.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela9.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela5.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela5.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_prog_hoje.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_prog_hoje.png"
     }
 ]

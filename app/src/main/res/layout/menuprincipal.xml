@@ -46,7 +46,7 @@
             android:scaleType="fitCenter"
             android:layout_height="32dp"
             android:layout_width="32dp"
-            android:layout_margin="25dp"
+            android:layout_margin="20dp"
             android:onClick="chamaTelaProg"/>
 
 
@@ -57,7 +57,7 @@
             android:id="@+id/btnCheck"
             android:scaleType="fitCenter"
             android:background="@mipmap/ic_menu_check"
-            android:layout_margin="25dp"
+            android:layout_margin="20dp"
             android:onClick="chamaTelaCheck"/>
 
 
@@ -69,7 +69,7 @@
             android:id="@+id/btnPrincipal"
             android:background="@mipmap/ic_menu_home"
             android:scaleType="fitCenter"
-            android:layout_margin="25dp"
+            android:layout_margin="20dp"
             android:onClick="chamaTelaPrincipal"/>
 
         <ImageButton
@@ -79,7 +79,7 @@
             android:id="@+id/btnRadar"
             android:background="@mipmap/ic_menu_radar"
             android:scaleType="fitCenter"
-            android:layout_margin="25dp"
+            android:layout_margin="20dp"
             android:onClick="chamaTelaRadar"/>
 
 
@@ -91,7 +91,7 @@
             android:layout_width="32dp"
             android:background="@mipmap/ic_menu_config"
             android:scaleType="fitCenter"
-            android:layout_margin="25dp"
+            android:layout_margin="20dp"
             android:onClick="chamaTelaConfig"/>
 
     </LinearLayout>
@@ -100,10 +100,10 @@
         android:contentDescription="@string/app_name"
         android:background="@mipmap/ic_voltar"
         android:scaleType="fitCenter"
-        android:layout_height="28dp"
-        android:layout_width="28dp"
+        android:layout_height="25dp"
+        android:layout_width="25dp"
         android:onClick="chamaTelaPrincipal"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="16dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
