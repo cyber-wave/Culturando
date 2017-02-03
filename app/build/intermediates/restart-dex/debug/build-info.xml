@@ -5,32 +5,32 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="7190526083123"
-    token="6670188343551109651"
+    timestamp="2168604060579"
+    token="2692134240158494001"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="10396" />
+        duration="3769" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2960" />
+        duration="1348" />
     <task
         name="verifier"
-        duration="170" />
+        duration="625" />
 
     <artifact
-        location="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/outputs/apk/app-debug.apk"
+        location="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="10625556072091"
+        timestamp="2168604060579"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/outputs/apk/app-debug.apk"
+            location="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

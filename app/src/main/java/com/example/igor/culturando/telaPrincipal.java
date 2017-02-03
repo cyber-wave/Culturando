@@ -5,112 +5,96 @@ package com.example.igor.culturando;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.TabItem;
-import android.support.design.widget.TabLayout;
-import android.support.v4.view.ViewPager;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.Button;
+import android.widget.ExpandableListView;
 import android.widget.ImageButton;
+import android.widget.Spinner;
 
-import com.example.davi.culturando.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+
 public class telaPrincipal extends AppCompatActivity {
 
-    Intent radar,prog,checklist,config;
+
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.telaprincipal);
-        radar = new Intent(getApplicationContext(), com.example.davi.culturando.radar.class);
-        config = new Intent(getApplicationContext(),ConfigActivity.class);
-        checklist = new Intent(getApplicationContext(),ChecklistActivity.class);
-        prog = new Intent(getApplicationContext(),ProgActivity.class);
-
-
-        ImageButton btnCheck = (ImageButton) findViewById(R.id.btnCheck);
-        ImageButton btnProg = (ImageButton) findViewById(R.id.btnProg);
-        ImageButton btnMapa = (ImageButton) findViewById(R.id.btnConfig);
-        ImageButton btnRadar = (ImageButton) findViewById(R.id.btnRadar);
-        ImageButton btnPrincipal = (ImageButton) findViewById(R.id.btnPrincipal);
-
-
-        ImageButton btnMes = (ImageButton) findViewById(R.id.btnMes);
-        ImageButton btnHoje = (ImageButton) findViewById(R.id.btnHoje);
-        ImageButton btnFavorito = (ImageButton) findViewById(R.id.btnFavorito);
-        ImageButton btnCategoria = (ImageButton) findViewById(R.id.btnCategoria);
-
-        ImageButton btnAjudaCheck = (ImageButton) findViewById(R.id.btnAjudaCheck);
-        ImageButton btnAjudaProg = (ImageButton) findViewById(R.id.btnAjudaProg);
-        ImageButton btnAjudaRadar = (ImageButton) findViewById(R.id.btnAjudaRadar);
-        //ImageButton btnAjudaRotas = (ImageButton) findViewById(R.id.btnAjudaRotas);
-        ImageButton btnAjudaPrincipal = (ImageButton) findViewById(R.id.btnAjudaPrincipal);
-
-        //TESTE DO GUGU MAPAS
-        Intent teste = new Intent(getApplicationContext(),MapsTeste.class);
-        startActivity(teste);
-        //FIM DO TESTE/
-
-       // TabItem btnProgresso = (TabItem) findViewById(R.id.btnProgresso);
-       // TabItem btnDesafio = (TabItem) findViewById(R.id.btnDesafio);
-        //TODO: A DESGRAÇA DO MAPA!
-
 
     }
 
 
 
-    public void chamaTelaCheck(View v) {
-        //setContentView(R.layout.telacheck);
-        startActivity(checklist);
+
+    public void chamaEspacoArquivo(View v) {
+        setContentView(R.layout.telamapaarquivopublicodoceara);
     }
 
-    public void chamaTelaConfig(View v) {
-        //setContentView(R.layout.telaconfig);
-        startActivity(config);
+    public void chamaEspacoJuvenal(View v) {
+        setContentView(R.layout.telamapacasadejuvenalgaleno);
     }
+
+    public void chamaEspacoCineteatro(View v) {
+        setContentView(R.layout.telamapacineteatrosaoluiz);
+    }
+
+    public void chamaEspacoDragao(View v) {
+        setContentView(R.layout.telamapadragaodomar);
+    }
+
+    public void chamaEspacoTeatro(View v) {
+        setContentView(R.layout.telamapajosedealencar);
+    }
+
+
+    public void chamaEspacoSobrado(View v) {
+        setContentView(R.layout.telamapadrjoselourenco);
+    }
+
+    public void chamaEspacoEscola(View v) {
+        setContentView(R.layout.telamapaescoladearteseoficios);
+    }
+    public void chamaEspacoMuseu(View v) {
+        setContentView(R.layout.telamapamuseudoceara);
+    }
+
+    public void chamaEspacoIracema(View v) {
+        setContentView(R.layout.telamapaportoiracemadasartes);
+    }
+
+
+    public void chamaTelaCheck(View v) {setContentView(R.layout.telacheck);}
+
+    public void chamaTelaConfig(View v) {setContentView(R.layout.telaconfig);}
 
     public void chamaTelaRadar(View v) {
-        //setContentView(R.layout.telaradar);
 
+        //setContentView(R.layout.telaradar);
+        Intent radar = new Intent(getApplicationContext(), com.example.davi.culturando.radar.class);
         startActivity(radar);
     }
 
     public void chamaTelaProg(View v) {
-
-        //setContentView(R.layout.telaprog);
-        startActivity(prog);
+        setContentView(R.layout.telaprog);
     }
 
-    public void chamaTelaPrincipal(View v)
-    {
+    public void chamaTelaPrincipal(View v) {
         setContentView(R.layout.telaprincipal);
     }
 
 
+    public void chamaTelaProgresso(View v) {setContentView(R.layout.telacheckprogresso);}
+
+    public void chamaTelaDesafio(View v) {setContentView(R.layout.telacheckdesafio);}
 
 
-    public void chamaTelaMes(View v) {
-        setContentView(R.layout.telaprogmes);
-    }
 
-    public void chamaTelaHoje(View v) {setContentView(R.layout.telaproghoje); }
-
-    public void chamaTelaFavorito(View v) {
-        setContentView(R.layout.telaprogfavorito);
-    }
-
-    public void chamaTelaCategoria(View v) {
-        setContentView(R.layout.telaprogcategoria);
-    }
-
-
-    public void chamaTelaProgresso(View v) {
-        setContentView(R.layout.telacheckprogresso);
-    }
-
-    public void chamaTelaDesafio(View v) {
-        setContentView(R.layout.telacheckdesafio);
-    }
 
 
     public void ajudaCheck(View v){

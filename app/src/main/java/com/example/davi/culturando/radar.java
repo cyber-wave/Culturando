@@ -88,7 +88,7 @@ public class radar extends AppCompatActivity {
                 strResposta = result;
                 tratarObjeto(strResposta);
 
-                //TODO: Talvez colocar o pegarLocalUsuario() aqui.
+
                 pegarLocalUsuario();
             }
 
@@ -134,7 +134,7 @@ public class radar extends AppCompatActivity {
                 //pegarEspacosProximos(700);
                 pegarEspacosProximos(700);
                 mostrarEspacosProximos();
-                //TODO: Isso tá mto errado cara.
+
 
                 /*pegarInfo(new VolleyCallback() {
                     @Override

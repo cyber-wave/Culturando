@@ -1,7 +1,7 @@
-#Thu Feb 02 23:34:31 BRT 2017
-base.0=/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8d6397b652eac700462b62f62092524dce14650d
+#Fri Feb 03 14:35:20 BRT 2017
+base.0=/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6e3ac1e9c915260aedcc6092448fe86cfc7c559f
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a90eb89ad3b9e1404fdf01bd5eab69d2756d1026/classes.dex
-base.1=/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a90eb89ad3b9e1404fdf01bd5eab69d2756d1026
-file.0=/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8d6397b652eac700462b62f62092524dce14650d/classes.dex
+file.1=/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_083ae87446e476a4fcadbb4a0e985031e9968ca0/classes.dex
+base.1=/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_083ae87446e476a4fcadbb4a0e985031e9968ca0
+file.0=/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6e3ac1e9c915260aedcc6092448fe86cfc7c559f/classes.dex

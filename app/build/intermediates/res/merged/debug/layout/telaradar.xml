@@ -12,15 +12,15 @@
     <android.support.v7.widget.Toolbar
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
+        android:theme="?attr/actionBarTheme"
         android:minHeight="?attr/actionBarSize"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:id="@+id/toolbarMapa"
+        android:id="@+id/toolbarRadar"
         android:background="#008B32"
         />
-    <!--android:theme="?attr/actionBarTheme"-->
+
 
 
     <include android:id="@+id/menuPrincipal"
@@ -35,8 +35,8 @@
         android:textColor="@color/corFundo"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="9dp"
-        android:textSize="30sp"/>
+        android:layout_marginTop="13dp"
+        android:textSize="25sp"/>
 
 
     <ImageButton
@@ -50,17 +50,138 @@
         android:layout_marginRight="20dp"
         android:onClick="ajudaRadar"
         android:id="@+id/btnAjudaRadar"
-        android:layout_alignTop="@+id/imageButton"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
+
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/corSubMenu"
+        android:theme="?attr/actionBarTheme"
+        android:minHeight="?attr/actionBarSize"
+        android:id="@+id/toolbar2"
+        android:layout_below="@id/toolbarRadar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/menu"
+        android:background="@color/corMenu"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_alignTop="@+id/menu"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        >
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:id="@+id/btnProg"
+            android:background="@mipmap/ic_menu_prog"
+            android:scaleType="fitCenter"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaProg"/>
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/btnCheck"
+            android:scaleType="fitCenter"
+            android:background="@mipmap/ic_menu_check"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaCheck"/>
+
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/btnPrincipal"
+            android:background="@mipmap/ic_menu_home"
+            android:scaleType="fitCenter"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaPrincipal"
+             />
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:id="@+id/btnRadar"
+            android:background="@mipmap/ic_menu_radar"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaRadar"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:tint="@color/corAlerta"
+            android:backgroundTint="@color/corDestaque"/>
+
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:id="@+id/btnConfig"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+            android:background="@mipmap/ic_menu_config"
+            android:scaleType="fitCenter"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaConfig"/>
+
+    </LinearLayout>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_radar_gps"
+        android:layout_marginLeft="21dp"
+        android:layout_marginStart="21dp"
+        android:id="@+id/imageButton3"
+        android:background="@null"
+        android:layout_marginTop="14dp"
+        android:layout_below="@+id/toolbarRadar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Ligue seu GPS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView8"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:textSize="15dp"
+        android:textColor="@color/corBranca"
+        android:layout_alignTop="@+id/imageButton3"
+        android:layout_toRightOf="@+id/imageButton3"
+        android:layout_toEndOf="@+id/imageButton3"
+        android:layout_marginTop="3dp" />
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/toolbarMapa"
-        android:layout_marginBottom="55dp"
-        android:id="@+id/scrollRadar"
-        >
+        android:layout_below="@+id/toolbar2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/menu"
+        android:id="@+id/scrollRadar">
 
         <LinearLayout
             android:layout_width="match_parent"

@@ -12,104 +12,10 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:id="@+id/toolbarT"
-        android:background="#008B32"
+        android:background="@color/corMenu"
         />
 
 
-    <android.support.v7.widget.Toolbar
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:minHeight="?attr/actionBarSize"
-        android:layout_alignParentBottom="true"
-        android:id="@+id/menu"
-        android:background="#008B32"
-        />
-
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_gravity="center"
-        android:gravity="center"
-        android:layout_alignTop="@+id/menu"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        >
-
-
-        <ImageButton
-            android:contentDescription="@string/app_name"
-            android:id="@+id/btnProg"
-            android:background="@mipmap/ic_menu_prog"
-            android:scaleType="fitCenter"
-            android:layout_height="32dp"
-            android:layout_width="32dp"
-            android:layout_margin="20dp"
-            android:onClick="chamaTelaProg"/>
-
-
-        <ImageButton
-            android:contentDescription="@string/app_name"
-            android:layout_width="32dp"
-            android:layout_height="32dp"
-            android:id="@+id/btnCheck"
-            android:scaleType="fitCenter"
-            android:background="@mipmap/ic_menu_check"
-            android:layout_margin="20dp"
-            android:onClick="chamaTelaCheck"/>
-
-
-
-        <ImageButton
-            android:contentDescription="@string/app_name"
-            android:layout_width="32dp"
-            android:layout_height="32dp"
-            android:id="@+id/btnPrincipal"
-            android:background="@mipmap/ic_menu_home"
-            android:scaleType="fitCenter"
-            android:layout_margin="20dp"
-            android:onClick="chamaTelaPrincipal"/>
-
-        <ImageButton
-            android:contentDescription="@string/app_name"
-            android:layout_width="32dp"
-            android:layout_height="32dp"
-            android:id="@+id/btnRadar"
-            android:background="@mipmap/ic_menu_radar"
-            android:scaleType="fitCenter"
-            android:layout_margin="20dp"
-            android:onClick="chamaTelaRadar"/>
-
-
-
-        <ImageButton
-            android:contentDescription="@string/app_name"
-            android:id="@+id/btnConfig"
-            android:layout_height="32dp"
-            android:layout_width="32dp"
-            android:background="@mipmap/ic_menu_config"
-            android:scaleType="fitCenter"
-            android:layout_margin="20dp"
-            android:onClick="chamaTelaConfig"/>
-
-    </LinearLayout>
-
-    <ImageButton
-        android:contentDescription="@string/app_name"
-        android:background="@mipmap/ic_voltar"
-        android:scaleType="fitCenter"
-        android:layout_height="25dp"
-        android:layout_width="25dp"
-        android:onClick="chamaTelaPrincipal"
-        android:layout_marginTop="16dp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginStart="20dp"
-        android:layout_marginLeft="20dp"
-        android:id="@+id/imageButton" />
 
 
 
