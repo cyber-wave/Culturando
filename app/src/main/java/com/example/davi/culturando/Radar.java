@@ -383,7 +383,7 @@ public class Radar extends AppCompatActivity {
 
     public void chamaTelaConfig(View v) {
         //setContentView(R.layout.telaconfig);
-        Intent config = new Intent(getApplicationContext(), Radar.class);
+        Intent config = new Intent(getApplicationContext(), ConfigActivity.class);
         startActivity(config);
     }
 
