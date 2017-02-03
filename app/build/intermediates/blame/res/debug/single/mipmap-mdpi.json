@@ -4,12 +4,12 @@
         "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_radar.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_prog.png",
-        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_prog.png"
-    },
-    {
         "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela4.png",
         "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/tela4.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_prog.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_prog.png"
     },
     {
         "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/tela1.png",
@@ -48,12 +48,12 @@
         "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_ajuda.png"
     },
     {
-        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_prog_cat.png",
-        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_prog_cat.png"
-    },
-    {
         "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu_home.png",
         "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_menu_home.png"
+    },
+    {
+        "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_prog_cat.png",
+        "source": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/src/main/res/mipmap-mdpi/ic_prog_cat.png"
     },
     {
         "merged": "/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_onibus.png",

@@ -16,12 +16,16 @@ import android.widget.ImageButton;
 import com.example.davi.culturando.*;
 public class telaPrincipal extends AppCompatActivity {
 
-    Intent radar;
+    Intent radar,prog,checklist,config;
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.telaprincipal);
         radar = new Intent(getApplicationContext(), com.example.davi.culturando.radar.class);
+        config = new Intent(getApplicationContext(),ConfigActivity.class);
+        checklist = new Intent(getApplicationContext(),ChecklistActivity.class);
+        prog = new Intent(getApplicationContext(),ProgActivity.class);
+
 
         ImageButton btnCheck = (ImageButton) findViewById(R.id.btnCheck);
         ImageButton btnProg = (ImageButton) findViewById(R.id.btnProg);
@@ -41,10 +45,14 @@ public class telaPrincipal extends AppCompatActivity {
         //ImageButton btnAjudaRotas = (ImageButton) findViewById(R.id.btnAjudaRotas);
         ImageButton btnAjudaPrincipal = (ImageButton) findViewById(R.id.btnAjudaPrincipal);
 
+        //TESTE DO GUGU MAPAS
+        Intent teste = new Intent(getApplicationContext(),MapsTeste.class);
+        startActivity(teste);
+        //FIM DO TESTE/
 
        // TabItem btnProgresso = (TabItem) findViewById(R.id.btnProgresso);
        // TabItem btnDesafio = (TabItem) findViewById(R.id.btnDesafio);
-
+        //TODO: A DESGRAÇA DO MAPA!
 
 
     }
@@ -52,9 +60,14 @@ public class telaPrincipal extends AppCompatActivity {
 
 
     public void chamaTelaCheck(View v) {
-        setContentView(R.layout.telacheck);}
+        //setContentView(R.layout.telacheck);
+        startActivity(checklist);
+    }
 
-    public void chamaTelaConfig(View v) {setContentView(R.layout.telaconfig);}
+    public void chamaTelaConfig(View v) {
+        //setContentView(R.layout.telaconfig);
+        startActivity(config);
+    }
 
     public void chamaTelaRadar(View v) {
         //setContentView(R.layout.telaradar);
@@ -63,10 +76,13 @@ public class telaPrincipal extends AppCompatActivity {
     }
 
     public void chamaTelaProg(View v) {
-        setContentView(R.layout.telaprog);
+
+        //setContentView(R.layout.telaprog);
+        startActivity(prog);
     }
 
-    public void chamaTelaPrincipal(View v) {
+    public void chamaTelaPrincipal(View v)
+    {
         setContentView(R.layout.telaprincipal);
     }
 

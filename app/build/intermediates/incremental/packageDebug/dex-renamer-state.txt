@@ -1,4 +1,4 @@
-#Sun Jan 29 10:27:39 BRT 2017
+#Thu Feb 02 23:34:31 BRT 2017
 base.0=/home/davitabosa/Documentos/ProjetoIntegradoV2/ProjetoIntegrado/Culturando/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8d6397b652eac700462b62f62092524dce14650d
 renamed.1=classes.dex
 renamed.0=classes2.dex

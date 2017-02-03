@@ -6,4 +6,5 @@ package com.example.davi.culturando;
 
 public interface VolleyCallback {
     void onSuccess(String result);
+    void onFailure();
 }
