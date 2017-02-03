@@ -3,6 +3,7 @@ package com.example.igor.culturando;
 
 
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -73,7 +74,10 @@ public class telaPrincipal extends AppCompatActivity {
     public void chamaTelaConfig(View v) {setContentView(R.layout.telaconfig);}
 
     public void chamaTelaRadar(View v) {
-        setContentView(R.layout.telaradar);
+
+        //setContentView(R.layout.telaradar);
+        Intent radar = new Intent(getApplicationContext(), com.example.davi.culturando.radar.class);
+        startActivity(radar);
     }
 
     public void chamaTelaProg(View v) {

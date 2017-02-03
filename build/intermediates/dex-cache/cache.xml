@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_4763dbf2c63f7d9d20495d1406c91be5a59afc0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_1c58646ec2326f4788673dd4fac7ff2269246b15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_aa1e6135cf45e157294fbf382be6f0ca1db550ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_608a6455c481c006098d6cb5a5cd3bdb13f9b711/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_0c61ef85ed4ce95d095317ecd42b19802f4c1fee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_13549c811f5fdeb201deec15aae69340b415a6d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_5c5136a27f01f6922398a92fae44feca9bea3769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_ecb7b50bd03889037b7b021346496a01050161be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_102a284023d2f06a6abe2b82c8c60a1ac5ba8a66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_fc6684a4b4586f36e853ea67203865faba23b5e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_cfb754f1eac16f7dc7a8a81c15492a6f7a2358ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_70371dd7cfd49b28a5a8834a756ae39c7b03a760/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_7fe10629874039e0e2e17b2ae85ffd90febcf64a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_4f9e83a856351e8ea339563f68ff65f0f2dcc22e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_a3d5865956edf122684cf0ca9f9662873a177886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_a9c7e9e857eae08c13f6d19fa621b44c8deab57d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_22bbbbee5c55d1481ed4cbbfe773fe23d36a186a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_5e36126ba3be586ed9f836c4ae22267b5727fd2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7e420b99522e3643138fc0825cc84213507a28">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6e3ac1e9c915260aedcc6092448fe86cfc7c559f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_b2c1c84605be9ad3f1f887f9ae84cee6c65f94ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_c78b11ec0267cea81a357e209475c9c998174679/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_b73ec8b9b0a8b48bb953bad8d6f1a89bb9b7fe77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_5c6f6eca94cfcbf7b77508ac7ef566cba610672b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_598ae34b5d34d4e6ef099352dd1e6b3d4496d398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_a115285b8b17ce190748c86346a37fa5b37928dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.maps.android-android-maps-utils-0.4.4_0bf03194894e82d3b133945e82ecb9356dd9b6af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_9b3cf2d914e573ae9a2e519c502215fe1e4fb209/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_d601c291a0c2d49fcb9b3c7f2ad39da8e84709dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_ad2b5bd95e2c5c022075f5d5b9a2e38d374a93b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_83a9cdc51a5119e66d892d13e7cc2eea074a34fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_883ee9048d20f4625c6a3ac69a637a4191fdadf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_eb7f0d1fc11df98a96fc7c2af4d320bdaa24c09b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_f84112976c37d28b6fb31b2700b8a533ac432d77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/davitabosa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_95ff4713fdf9f1f541bdf4e88a747d961572cd7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_70523792fe81fb41d63b9e052b4a3d4772b444c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_e44c8050820beb8d0bc96d20faf915b906d943e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_738a3042b6a1f2467b315be5daf8fa25bda5925c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_9874542e81fb913278d850f427400b691b9e4bc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_e91e2175afd1dc2c8b063a039552d50e2d4f643f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_c136b1de94b9133e6bc1205d8f2cbbd471bdecd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_fba0817ee31884a5a122e225ae16930008a19bf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_5805d3726e9662101b7c584a06d01b775a4e50e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_6cd7da722a82c6203e663d93bf3c1784b91efb69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_1fa6b0c8ff840c55dab96d36f42141ff1056e6bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_feb6efe4e14ce6b6c2c8625452a6128e5cd42cdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_816d766f011034fc1e1e86c116bfd8abc98ec262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_4679ae9c086bbcb925974147f5f13c92ed5c2d2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_3e4e34eca3fce1bb2498b405c61cb0690a0dbd6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_b436b2b58c0eb300506890a8aef6c1b6fe93c3b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_1e3ab49b320f661828d152215adf1b0ec399bf07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_497263a8526f739cbfd86495a0232c52c3cb5749/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_930d0fd4f8dfdd2ebdc7d3acb3d3eda5c91a38fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_df7fba7ad9d21012c4868eb3a114cee9ad3df2b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aab6a71a21102b1b97120a803b8acdc51fc33ef4">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_083ae87446e476a4fcadbb4a0e985031e9968ca0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_23642b070692647ea02a52fdde322246910f4a47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_3af8a953abdc0d4440bc1fb85b510e9be45cb4ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_d75fd6867e9cf40882eaee7e59f690dc1d0635ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_18e16378d85ec3c09eeb307ebb1ed994e7e04413/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_97a3608ba8543288949e70a3a4562a813432c2fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_7936240f519478b37e2c1c61c3286a3d1dad372e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_3fb5c5b20be7b60c7daeb89ab2806733e99663c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_ec4e7990fb83c9d2a9ec57950b08ff4023708228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_24e15ae8de87e50616c43795688510f53e0a3fcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_bc88618c8f5d7798f480ac9338b94940f0a087bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_3fc92fdcf73bfbbb7cb1423a4ed318df96d37011/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b5d6ad59257a54d6e7d78e46c4edbe04963cb764/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_cff1c57e5bd33b1c295d7e65632deac7c1b35659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_749c52994a3f6f5f26aa8b29571866b7352c316c/classes.dex" />
+    </item>
+
+</items>
