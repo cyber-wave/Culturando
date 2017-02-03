@@ -23,6 +23,27 @@
             </intent-filter>
         </activity>
 
+        <activity android:name="com.example.davi.culturando.ProgActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK_ACTIVITY" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.davi.culturando.ConfigActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK_ACTIVITY" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.davi.culturando.ChecklistActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK_ACTIVITY" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.davi.culturando.radar">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK_ACTIVITY" />
+            </intent-filter>
+        </activity>
+
 
 
     </application>
