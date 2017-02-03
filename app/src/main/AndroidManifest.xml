@@ -55,7 +55,8 @@
         <activity android:name="com.example.davi.culturando.JoseLourencoActivity" />
         <activity android:name="com.example.davi.culturando.OficiosActivity" />
         <activity android:name="com.example.davi.culturando.MuseuActivity" />
-        <activity android:name="com.example.davi.culturando.IracemaActivity"></activity>
+        <activity android:name="com.example.davi.culturando.IracemaActivity" />
+        <activity android:name="com.example.davi.culturando.InfoActivity"></activity>
     </application>
 
 </manifest>

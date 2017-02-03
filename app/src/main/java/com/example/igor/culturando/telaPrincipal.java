@@ -13,6 +13,7 @@ import com.example.davi.culturando.AlencarActivity;
 import com.example.davi.culturando.ArquivoPublicoActivity;
 import com.example.davi.culturando.ChecklistActivity;
 import com.example.davi.culturando.CineteatroActivity;
+import com.example.davi.culturando.ConfigActivity;
 import com.example.davi.culturando.DragaoActivity;
 import com.example.davi.culturando.IracemaActivity;
 import com.example.davi.culturando.JoseLourencoActivity;
@@ -107,7 +108,12 @@ public class telaPrincipal extends AppCompatActivity {
         startActivity(i);
     }
 
-    public void chamaTelaConfig(View v) {setContentView(R.layout.telaconfig);}
+    public void chamaTelaConfig(View v) {
+
+        //setContentView(R.layout.telaconfig);
+        Intent i = new Intent(getApplicationContext(), ConfigActivity.class);
+        startActivity(i);
+    }
 
     public void chamaTelaRadar(View v) {
 
@@ -127,8 +133,7 @@ public class telaPrincipal extends AppCompatActivity {
     public void chamaTelaPrincipal(View v) {
 
         //setContentView(R.layout.telaprincipal);
-        Intent i = new Intent(getApplicationContext(), telaPrincipal.class);
-        startActivity(i);
+
     }
 
 
