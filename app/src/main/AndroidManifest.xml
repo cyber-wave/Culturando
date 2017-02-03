@@ -47,7 +47,15 @@
                 <action android:name="android.intent.action.PICK_ACTIVITY" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.davi.culturando.ArquivoPublicoActivity"></activity>
+        <activity android:name="com.example.davi.culturando.ArquivoPublicoActivity" />
+        <activity android:name="com.example.davi.culturando.CineteatroActivity" />
+        <activity android:name="com.example.davi.culturando.DragaoActivity" />
+        <activity android:name="com.example.davi.culturando.JuvenalActivity" />
+        <activity android:name="com.example.davi.culturando.AlencarActivity" />
+        <activity android:name="com.example.davi.culturando.JoseLourencoActivity" />
+        <activity android:name="com.example.davi.culturando.OficiosActivity" />
+        <activity android:name="com.example.davi.culturando.MuseuActivity" />
+        <activity android:name="com.example.davi.culturando.IracemaActivity"></activity>
     </application>
 
 </manifest>

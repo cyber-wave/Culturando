@@ -11,4 +11,8 @@
 
     </string-array>
 
+    <string name="sobre_arquivopublico">
+        O Arquivo Público do Estado do Ceará tem como função recolher, preservar e divulgar documentos de valor histórico para referência e pesquisa. São correspondências, processos, relatórios, inventários, mapas, plantas e diversos outros documentos, emitidos pelos Poderes Executivo, Legislativo, Judiciário e, também, de particulares, desde 1703. Dos documentos antigos existentes no Arquivo Público destacam-se o atestado de óbito do Padre Cícero; as viagens de Matias Beck ao Ceará, do século XVIII; o inventário de Tristão Gonçalves e de dona Ana Triste, sua esposa; registros de terras de Fortaleza, do século XIX. O Arquivo Público emite certidões de documentos cartoriais e transações paleográficas de documentação histórica e monta exposições temáticas.
+    </string>
+
 </resources>

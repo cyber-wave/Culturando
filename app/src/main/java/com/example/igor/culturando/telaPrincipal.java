@@ -9,8 +9,16 @@ import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
+import com.example.davi.culturando.AlencarActivity;
 import com.example.davi.culturando.ArquivoPublicoActivity;
 import com.example.davi.culturando.ChecklistActivity;
+import com.example.davi.culturando.CineteatroActivity;
+import com.example.davi.culturando.DragaoActivity;
+import com.example.davi.culturando.IracemaActivity;
+import com.example.davi.culturando.JoseLourencoActivity;
+import com.example.davi.culturando.JuvenalActivity;
+import com.example.davi.culturando.MuseuActivity;
+import com.example.davi.culturando.OficiosActivity;
 import com.example.davi.culturando.ProgActivity;
 import com.example.davi.culturando.Radar;
 import com.example.davi.*;
@@ -36,35 +44,60 @@ public class telaPrincipal extends AppCompatActivity {
     }
 
     public void chamaEspacoJuvenal(View v) {
-        setContentView(R.layout.telamapacasadejuvenalgaleno);
+
+        //setContentView(R.layout.telamapacasadejuvenalgaleno);
+        Intent i = new Intent(getApplicationContext(), JuvenalActivity.class);
+        startActivity(i);
     }
 
     public void chamaEspacoCineteatro(View v) {
-        setContentView(R.layout.telamapacineteatrosaoluiz);
+        //setContentView(R.layout.telamapacineteatrosaoluiz);
+        Intent i = new Intent(getApplicationContext(), CineteatroActivity.class);
+        startActivity(i);
+
     }
 
     public void chamaEspacoDragao(View v) {
-        setContentView(R.layout.telamapadragaodomar);
+
+        //setContentView(R.layout.telamapadragaodomar);
+        Intent i = new Intent(getApplicationContext(), DragaoActivity.class);
+        startActivity(i);
     }
 
     public void chamaEspacoTeatro(View v) {
-        setContentView(R.layout.telamapajosedealencar);
+
+        Intent i = new Intent(getApplicationContext(), AlencarActivity.class);
+        startActivity(i);
+        //setContentView(R.layout.telamapajosedealencar);
     }
 
 
     public void chamaEspacoSobrado(View v) {
-        setContentView(R.layout.telamapadrjoselourenco);
+
+        Intent i = new Intent(getApplicationContext(), JoseLourencoActivity.class);
+        startActivity(i);
+        //setContentView(R.layout.telamapadrjoselourenco);
     }
 
     public void chamaEspacoEscola(View v) {
-        setContentView(R.layout.telamapaescoladearteseoficios);
+
+        //setContentView(R.layout.telamapaescoladearteseoficios);
+        Intent i = new Intent(getApplicationContext(), OficiosActivity.class);
+        startActivity(i);
     }
     public void chamaEspacoMuseu(View v) {
-        setContentView(R.layout.telamapamuseudoceara);
+        //// TODO: intent
+        //setContentView(R.layout.telamapamuseudoceara);
+        Intent i = new Intent(getApplicationContext(), MuseuActivity.class);
+        startActivity(i);
     }
 
     public void chamaEspacoIracema(View v) {
-        setContentView(R.layout.telamapaportoiracemadasartes);
+        //TODO: intent
+        //setContentView(R.layout.telamapaportoiracemadasartes);
+        Intent i = new Intent(getApplicationContext(), IracemaActivity.class);
+        startActivity(i);
+
     }
 
 

@@ -7,7 +7,15 @@ import android.widget.RelativeLayout;
 import android.widget.ScrollView;
 import android.widget.TextView;
 
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
 import com.example.igor.culturando.R;
+
+import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class ArquivoPublicoActivity extends AppCompatActivity {
 
@@ -20,13 +28,10 @@ public class ArquivoPublicoActivity extends AppCompatActivity {
         setContentView(R.layout.telamapaarquivopublicodoceara);
         src = (ScrollView) findViewById(R.id.scrArquivo);
         rel = (RelativeLayout) findViewById(R.id.relArquivo);
-        LayoutInflater inflater = getLayoutInflater();
-        for(int i = 0; i<100; i++){
-            TextView txv = new TextView(getApplicationContext());
-            txv.setText("poxa igor!");
-            rel.addView(txv);
-        }
+     
 
 
     }
+
+
 }

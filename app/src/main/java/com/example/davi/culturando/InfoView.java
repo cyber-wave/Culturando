@@ -6,16 +6,21 @@ import android.content.Context;
 import android.content.res.ColorStateList;
 import android.graphics.Color;
 import android.util.AttributeSet;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.view.*;
 import com.example.igor.culturando.R;
+import com.example.igor.culturando.telaAbertura;
+
+import static com.example.igor.culturando.R.anim.fadeinsplash;
 
 /**
  * Created by davitabosa on 31/01/17.
  */
 
-public class InfoView extends LinearLayout {
+public class InfoView extends LinearLayout implements View.OnTouchListener {
     private Espaco espaco;
     private TextView txvDist;
     private TextView txvNome;
@@ -29,6 +34,7 @@ public class InfoView extends LinearLayout {
 
     }
 
+
     private void init(Context context) {
         rootView = inflate(context,R.layout.espacoview,this);
         txvDist = (TextView) findViewById(R.id.txvM);
@@ -39,5 +45,11 @@ public class InfoView extends LinearLayout {
     }
     public void setNomeColor(int color){
         txvNome.setTextColor(color);
+    }
+
+    @Override
+    public boolean onTouch(View v, MotionEvent event) {
+        this.setBackgroundColor(Color.LTGRAY);
+        return false;
     }
 }
