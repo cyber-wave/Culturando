@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/telaprog"
+    android:baselineAligned="false">
+
+
+
+
+    <include android:id="@+id/menuPrincipal"
+        layout="@layout/menuprincipal">
+    </include>
+
+    <include android:id="@+id/menuPrincipal"
+        layout="@layout/menuprogamacao">
+    </include>
+
+
+
+
+    <TextView
+        android:text="CATEGORIAAAAAAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:layout_alignRight="@+id/titulo"
+        android:layout_alignEnd="@+id/titulo"
+        android:layout_marginRight="47dp"
+        android:layout_marginEnd="47dp"
+        android:layout_marginTop="229dp"
+        android:id="@+id/textView3" />
+
+
+</RelativeLayout>

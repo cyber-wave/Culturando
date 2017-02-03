@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="?attr/actionBarTheme"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/toolbarProg"
+        android:background="@color/corMenu"
+        />
+
+
+
+
+
+    <TextView
+        android:text="Programação"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/titulo"
+        android:textColor="@color/corFundo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:textSize="25sp"/>
+
+
+
+
+
+    <ImageButton
+        android:contentDescription="@string/app_name"
+        android:background="@mipmap/ic_ajuda"
+        android:scaleType="fitCenter"
+        android:layout_height="28dp"
+        android:layout_width="28dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:onClick="ajudaProg"
+        android:id="@+id/btnAjudaProg"
+        android:layout_marginTop="16dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.TabLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="55dp"
+            android:id="@+id/sliding_tabs"
+            android:layout_below="@+id/btnAjudaCheck"
+            android:layout_marginBottom="50dp"
+            android:background="@color/corSubMenu"
+            app:tabTextColor="@color/corFundo"
+            app:tabSelectedTextColor="@color/corBranca"
+            app:tabIndicatorColor="@color/corBranca"
+            app:tabIndicatorHeight="5dp">
+
+
+            <android.support.design.widget.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mês"
+                />
+
+
+            <android.support.design.widget.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Favoritos"
+                />
+
+
+            <android.support.design.widget.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Categoria"
+                />
+
+
+
+
+
+        </android.support.design.widget.TabLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>

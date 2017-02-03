@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/telaprincipal"
+    android:baselineAligned="false">
+
+    <include android:id="@+id/menuPrincipal"
+        layout="@layout/menuprincipal">
+    </include>
+
+    <TextView
+        android:text="Espaços Culturais"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/titulo"
+        android:textColor="@color/corFundo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:textSize="25sp"/>
+
+
+
+
+    <ImageButton
+        android:contentDescription="@string/app_name"
+        android:background="@mipmap/ic_ajuda"
+        android:scaleType="fitCenter"
+        android:layout_height="28dp"
+        android:layout_width="28dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="20dp"
+        android:onClick="ajudaPrincipal"
+        android:id="@+id/btnAjudaPrincipal"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/menu"
+        android:background="@color/corMenu"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_alignTop="@+id/menu"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        >
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:id="@+id/btnProg"
+            android:background="@mipmap/ic_menu_prog"
+            android:scaleType="fitCenter"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaProg"/>
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/btnCheck"
+            android:scaleType="fitCenter"
+            android:background="@mipmap/ic_menu_check"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaCheck"/>
+
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/btnPrincipal"
+            android:background="@mipmap/ic_menu_home"
+            android:scaleType="fitCenter"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaPrincipal"
+            android:backgroundTint="@color/corDestaque"/>
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/btnRadar"
+            android:background="@mipmap/ic_menu_radar"
+            android:scaleType="fitCenter"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaRadar"/>
+
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:id="@+id/btnConfig"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+            android:background="@mipmap/ic_menu_config"
+            android:scaleType="fitCenter"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaConfig"/>
+
+    </LinearLayout>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_ic_005"
+        android:id="@+id/imageButton18"
+        android:layout_marginTop="25dp"
+        android:background="@null"
+        android:layout_below="@+id/imageButton16"
+        android:layout_alignLeft="@+id/imageButton14"
+        android:layout_alignStart="@+id/imageButton14"
+        android:layout_marginLeft="9dp"
+        android:layout_marginStart="9dp"
+        android:scaleX="1.3"
+        android:scaleY="1.3"
+        android:onClick="chamaEspacoTeatro"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_ic_002"
+        android:id="@+id/imageButton15"
+        android:background="@null"
+        android:layout_alignTop="@+id/imageButton14"
+        android:layout_alignRight="@+id/titulo"
+        android:layout_alignEnd="@+id/titulo"
+        android:scaleX="1.3"
+        android:scaleY="1.3"
+        android:onClick="chamaEspacoDragao"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_ic_001"
+        android:layout_marginLeft="29dp"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="42dp"
+        android:id="@+id/imageButton14"
+        android:background="@null"
+        android:scaleX="1.3"
+        android:scaleY="1.3"
+        android:onClick="chamaEspacoCineteatro"
+        android:layout_below="@+id/btnAjudaPrincipal"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_ic_007"
+        android:id="@+id/imageButton20"
+        android:background="@null"
+        android:layout_marginTop="20dp"
+        android:scaleX="1.3"
+        android:scaleY="1.3"
+        android:layout_below="@+id/imageButton18"
+        android:layout_alignLeft="@+id/imageButton16"
+        android:layout_alignStart="@+id/imageButton16"
+        android:onClick="chamaEspacoJuvenal"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_ic_008"
+        android:id="@+id/imageButton23"
+        android:background="@null"
+        android:scaleX="1.3"
+        android:scaleY="1.3"
+        android:layout_above="@+id/menu"
+        android:layout_alignLeft="@+id/imageButton18"
+        android:layout_alignStart="@+id/imageButton18"
+        android:layout_marginLeft="17dp"
+        android:layout_marginStart="17dp"
+        android:layout_marginBottom="10dp"
+        android:onClick="chamaEspacoArquivo"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_ic_009"
+        android:id="@+id/imageButton21"
+        android:background="@null"
+        android:scaleX="1.3"
+        android:scaleY="1.3"
+        android:layout_alignBottom="@+id/imageButton23"
+        android:layout_alignLeft="@+id/imageButton15"
+        android:layout_alignStart="@+id/imageButton15"
+        android:layout_marginLeft="13dp"
+        android:layout_marginStart="13dp"
+        android:layout_marginBottom="30dp"
+        android:onClick="chamaEspacoMuseu"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_ic_006"
+        android:id="@+id/imageButton19"
+        android:background="@null"
+        android:scaleX="1.3"
+        android:scaleY="1.3"
+        android:layout_alignTop="@+id/imageButton18"
+        android:layout_alignLeft="@+id/imageButton15"
+        android:layout_alignStart="@+id/imageButton15"
+        android:layout_marginTop="22dp"
+        android:onClick="chamaEspacoIracema"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_ic_003"
+        android:layout_marginTop="23dp"
+        android:id="@+id/imageButton16"
+        android:background="@null"
+        android:scaleX="1.3"
+        android:scaleY="1.3"
+        android:layout_below="@+id/imageButton14"
+        android:layout_toRightOf="@+id/imageButton18"
+        android:layout_toEndOf="@+id/imageButton18"
+        android:onClick="chamaEspacoEscola"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_ic_004"
+        android:id="@+id/imageButton17"
+        android:background="@null"
+        android:scaleX="1.3"
+        android:scaleY="1.3"
+        android:layout_alignTop="@+id/imageButton16"
+        android:layout_alignRight="@+id/btnAjudaPrincipal"
+        android:layout_alignEnd="@+id/btnAjudaPrincipal"
+        android:layout_marginRight="17dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginTop="18dp"
+        android:onClick="chamaEspacoSobrado"/>
+
+</RelativeLayout>

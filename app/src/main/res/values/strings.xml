@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Culturando</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string-array name="spinnerarray">
+        <item>Bifjefiwjef wef ioweiof wioe fwjie fioie w
+        woefwejfjwefwioefojiwijoe fwe joiojifwoji eoji</item>
+
+    </string-array>
+
+</resources>

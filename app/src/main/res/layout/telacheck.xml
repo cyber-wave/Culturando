@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/telacheck"
+    android:baselineAligned="false"
+    >
+
+
+    <include android:id="@+id/menuPrincipal"
+        layout="@layout/menuprincipal">
+    </include>
+
+    <TextView
+        android:text="Checklist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/titulo"
+        android:textColor="@color/corFundo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif"
+        tools:targetApi="jelly_bean" />
+
+    <ImageButton
+        android:contentDescription="@string/app_name"
+        android:background="@mipmap/ic_ajuda"
+        android:scaleType="fitCenter"
+        android:layout_height="28dp"
+        android:layout_width="28dp"
+        android:onClick="ajudaCheck"
+        android:id="@+id/btnAjudaCheck"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="20dp"
+        android:layout_alignTop="@+id/imageButton"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        tools:ignore="UnknownIdInLayout" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.TabLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="55dp"
+            android:id="@+id/sliding_tabs"
+            android:layout_below="@+id/btnAjudaCheck"
+            android:layout_marginBottom="50dp"
+            android:background="@color/corSubMenu"
+            app:tabTextColor="@color/corFundo"
+            app:tabSelectedTextColor="@color/corBranca"
+            app:tabIndicatorColor="@color/corBranca"
+            app:tabIndicatorHeight="5dp">
+
+
+            <android.support.design.widget.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Desafios"
+                android:id="@+id/btnDesafio"
+                android:clickable="true"
+                android:onClick="chamaTelaDesafio" />
+
+
+            <android.support.design.widget.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnProgresso"
+                android:text="Progresso"
+                android:onClick="chamaTelaProgresso"/>
+        </android.support.design.widget.TabLayout>
+    </LinearLayout>
+
+
+
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/menu"
+        android:background="@color/corMenu"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_alignTop="@+id/menu"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        >
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:id="@+id/btnProg"
+            android:background="@mipmap/ic_menu_prog"
+            android:scaleType="fitCenter"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaProg"/>
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/btnCheck"
+            android:scaleType="fitCenter"
+            android:background="@mipmap/ic_menu_check"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaCheck"
+            android:backgroundTint="@color/corDestaque"/>
+
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/btnPrincipal"
+            android:background="@mipmap/ic_menu_home"
+            android:scaleType="fitCenter"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaPrincipal"/>
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/btnRadar"
+            android:background="@mipmap/ic_menu_radar"
+            android:scaleType="fitCenter"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaRadar"/>
+
+
+
+        <ImageButton
+            android:contentDescription="@string/app_name"
+            android:id="@+id/btnConfig"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+            android:background="@mipmap/ic_menu_config"
+            android:scaleType="fitCenter"
+            android:layout_margin="20dp"
+            android:onClick="chamaTelaConfig"/>
+
+    </LinearLayout>
+</RelativeLayout>
+
+
+

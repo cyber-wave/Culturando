@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="corFundo">#F5F5F5</color>
+    <color name="corBranca">#FFFFFF</color>
+    <color name="corTexto">#5D5D5D</color>
+    <color name="corMenu">#289976</color>
+    <color name="corSubMenu">#024745</color>
+    <color name="corDestaque">#024745</color>
+    <color name="corAlerta">#efe567</color>
+
+</resources>
