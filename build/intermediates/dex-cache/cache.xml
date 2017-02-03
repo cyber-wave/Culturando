@@ -156,21 +156,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4a89b9ef716543fda40c649b72765818b1f4128">
+        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6e3ac1e9c915260aedcc6092448fe86cfc7c559f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
         <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_5e36126ba3be586ed9f836c4ae22267b5727fd2f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6d7e420b99522e3643138fc0825cc84213507a28">
-        <dex dex="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6e3ac1e9c915260aedcc6092448fe86cfc7c559f/classes.dex" />
     </item>
     <item
         is-multidex="true"

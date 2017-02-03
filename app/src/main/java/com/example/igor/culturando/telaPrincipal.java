@@ -8,15 +8,12 @@ import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.ArrayAdapter;
-import android.widget.Button;
-import android.widget.ExpandableListView;
-import android.widget.ImageButton;
-import android.widget.Spinner;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
+import com.example.davi.culturando.ArquivoPublicoActivity;
+import com.example.davi.culturando.ChecklistActivity;
+import com.example.davi.culturando.ProgActivity;
+import com.example.davi.culturando.Radar;
+import com.example.davi.*;
 
 
 public class telaPrincipal extends AppCompatActivity {
@@ -33,7 +30,9 @@ public class telaPrincipal extends AppCompatActivity {
 
 
     public void chamaEspacoArquivo(View v) {
-        setContentView(R.layout.telamapaarquivopublicodoceara);
+        //setContentView(R.layout.telamapaarquivopublicodoceara);
+        Intent i = new Intent(getApplicationContext(), ArquivoPublicoActivity.class);
+        startActivity(i);
     }
 
     public void chamaEspacoJuvenal(View v) {
@@ -69,27 +68,40 @@ public class telaPrincipal extends AppCompatActivity {
     }
 
 
-    public void chamaTelaCheck(View v) {setContentView(R.layout.telacheck);}
+    public void chamaTelaCheck(View v) {
+        //setContentView(R.layout.telacheck);
+        Intent i = new Intent(getApplicationContext(), ChecklistActivity.class);
+        startActivity(i);
+    }
 
     public void chamaTelaConfig(View v) {setContentView(R.layout.telaconfig);}
 
     public void chamaTelaRadar(View v) {
 
         //setContentView(R.layout.telaradar);
-        Intent radar = new Intent(getApplicationContext(), com.example.davi.culturando.radar.class);
+        Intent radar = new Intent(getApplicationContext(), Radar.class);
         startActivity(radar);
     }
 
     public void chamaTelaProg(View v) {
-        setContentView(R.layout.telaprog);
+
+        //setContentView(R.layout.telaprog);
+        Intent i = new Intent(getApplicationContext(), ProgActivity.class);
+        startActivity(i);
+
     }
 
     public void chamaTelaPrincipal(View v) {
-        setContentView(R.layout.telaprincipal);
+
+        //setContentView(R.layout.telaprincipal);
+        Intent i = new Intent(getApplicationContext(), telaPrincipal.class);
+        startActivity(i);
     }
 
 
-    public void chamaTelaProgresso(View v) {setContentView(R.layout.telacheckprogresso);}
+    public void chamaTelaProgresso(View v) {
+        setContentView(R.layout.telacheckprogresso);
+    }
 
     public void chamaTelaDesafio(View v) {setContentView(R.layout.telacheckdesafio);}
 

@@ -45,7 +45,7 @@ public class ProgActivity extends AppCompatActivity {
 
     public void chamaTelaRadar(View v) {
         //setContentView(R.layout.telaradar);
-        Intent radar = new Intent(getApplicationContext(), com.example.davi.culturando.radar.class);
+        Intent radar = new Intent(getApplicationContext(), Radar.class);
         startActivity(radar);
     }
 

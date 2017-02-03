@@ -18,7 +18,7 @@ public class ConfigActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.telaconfig);
-        //TODO: Colocar Configuracoes para o radar
+        //TODO: Colocar Configuracoes para o Radar
     }
     public void chamaTelaCheck(View v) {
         //setContentView(R.layout.telacheck);
@@ -32,7 +32,7 @@ public class ConfigActivity extends AppCompatActivity {
 
     public void chamaTelaRadar(View v) {
         //setContentView(R.layout.telaradar);
-        Intent radar = new Intent(getApplicationContext(), com.example.davi.culturando.radar.class);
+        Intent radar = new Intent(getApplicationContext(), Radar.class);
         startActivity(radar);
     }
 
