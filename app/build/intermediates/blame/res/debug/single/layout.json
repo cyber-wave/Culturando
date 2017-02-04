@@ -4,6 +4,10 @@
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/layout/telaprogmes.xml"
     },
     {
+        "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/layout/activity_alencar.xml",
+        "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/layout/activity_alencar.xml"
+    },
+    {
         "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
     },
@@ -32,12 +36,12 @@
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/layout/telamapadrjoselourenco.xml"
     },
     {
-        "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
-    },
-    {
         "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
     },
     {
         "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
@@ -72,12 +76,12 @@
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",

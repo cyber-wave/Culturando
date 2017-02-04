@@ -2,11 +2,9 @@ package com.example.davi.culturando;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.provider.ContactsContract;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageButton;
 
 import com.example.igor.culturando.R;
@@ -75,7 +73,7 @@ public class ChecklistActivity extends AppCompatActivity {
 
     public void chamaTelaRadar(View v) {
         //setContentView(R.layout.telaradar);
-        Intent radar = new Intent(getApplicationContext(), com.example.davi.culturando.radar.class);
+        Intent radar = new Intent(getApplicationContext(), Radar.class);
         startActivity(radar);
     }
 

@@ -2,29 +2,61 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.igor.culturando">
 
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
+        <uses-permission android:name="android.permission.INTERNET" />
+        <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+        <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
         <activity android:name=".telaAbertura">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity android:name=".telaPrincipal">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
-
-
-
+        <activity android:name="com.example.davi.culturando.ProgActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK_ACTIVITY" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.davi.culturando.ConfigActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK_ACTIVITY" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.davi.culturando.ChecklistActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK_ACTIVITY" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.davi.culturando.Radar">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK_ACTIVITY" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.davi.culturando.ArquivoPublicoActivity" />
+        <activity android:name="com.example.davi.culturando.CineteatroActivity" />
+        <activity android:name="com.example.davi.culturando.DragaoActivity" />
+        <activity android:name="com.example.davi.culturando.JuvenalActivity" />
+        <activity android:name="com.example.davi.culturando.AlencarActivity" />
+        <activity android:name="com.example.davi.culturando.JoseLourencoActivity" />
+        <activity android:name="com.example.davi.culturando.OficiosActivity" />
+        <activity android:name="com.example.davi.culturando.MuseuActivity" />
+        <activity android:name="com.example.davi.culturando.IracemaActivity" />
+        <activity android:name="com.example.davi.culturando.InfoActivity"></activity>
     </application>
 
 </manifest>

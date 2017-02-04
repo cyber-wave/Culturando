@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:2:1-62:12
 	package
 		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml
@@ -13,8 +13,16 @@ ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src
 	android:versionCode
 		INJECTED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml
 		INJECTED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:5:5-28:19
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:8:5-60:19
 MERGED from [com.android.support:design:25.1.0] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:transition:25.1.0] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.volley:volley:1.0.0] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/AndroidManifest.xml:9:5-20
@@ -71,35 +79,112 @@ MERGED from [com.android.support:support-core-ui:25.1.0] /media/davitabosa/DAVI 
 MERGED from [com.android.support:support-core-utils:25.1.0] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.1.0] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:12:9-35
 	android:allowBackup
-		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:10:9-43
 	android:theme
-		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:13:9-40
+uses-permission#android.permission.INTERNET
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:14:9-71
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:14:26-68
 activity#com.example.igor.culturando.telaAbertura
-ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:13:9-18:20
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:18:9-24:20
 	android:name
-		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:13:19-47
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:18:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:14:13-17:29
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:22:27-74
 activity#com.example.igor.culturando.telaPrincipal
-ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:20:9-24:20
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:25:9-29:20
 	android:name
-		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:20:19-48
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:25:19-48
 intent-filter#android.intent.action.MAIN
-ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:21:13-23:29
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:26:13-28:29
+activity#com.example.davi.culturando.ProgActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:30:9-34:20
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:30:19-74
+intent-filter#android.intent.action.PICK_ACTIVITY
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:31:13-33:29
+action#android.intent.action.PICK_ACTIVITY
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:32:25-75
+activity#com.example.davi.culturando.ConfigActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:35:9-39:20
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:35:19-76
+activity#com.example.davi.culturando.ChecklistActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:40:9-44:20
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:40:19-79
+activity#com.example.davi.culturando.Radar
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:45:9-49:20
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:45:19-67
+activity#com.example.davi.culturando.ArquivoPublicoActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:50:9-87
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:50:19-84
+activity#com.example.davi.culturando.CineteatroActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:51:9-83
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:51:19-80
+activity#com.example.davi.culturando.DragaoActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:52:9-79
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:52:19-76
+activity#com.example.davi.culturando.JuvenalActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:53:9-80
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:53:19-77
+activity#com.example.davi.culturando.AlencarActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:54:9-80
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:54:19-77
+activity#com.example.davi.culturando.JoseLourencoActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:55:9-85
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:55:19-82
+activity#com.example.davi.culturando.OficiosActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:56:9-80
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:56:19-77
+activity#com.example.davi.culturando.MuseuActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:57:9-78
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:57:19-75
+activity#com.example.davi.culturando.IracemaActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:58:9-80
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:58:19-77
+activity#com.example.davi.culturando.InfoActivity
+ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:59:9-86
+	android:name
+		ADDED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml:59:19-74
 uses-sdk
 INJECTED from /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.1.0] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:21:5-23:62
@@ -182,21 +267,6 @@ MERGED from [com.google.android.gms:play-services-basement:10.0.1] /media/davita
 		ADDED from [com.google.maps.android:android-maps-utils:0.4.4] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/AndroidManifest.xml:10:13-66
 	android:name
 		ADDED from [com.google.maps.android:android-maps-utils:0.4.4] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/AndroidManifest.xml:9:13-58
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-crash:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/AndroidManifest.xml:18:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/AndroidManifest.xml:19:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/AndroidManifest.xml:21:5-78

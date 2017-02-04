@@ -16,5 +16,6 @@
         app:srcCompat="@mipmap/img_splash"
         android:layout_alignParentTop="true"
         android:scaleType = "centerCrop"
-        android:id="@+id/imgSplash" />
+        android:id="@+id/imgSplash"
+         />
 </RelativeLayout>

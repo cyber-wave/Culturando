@@ -48,6 +48,10 @@
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/mipmap-hdpi/ic_menu_home.png"
     },
     {
+        "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/mipmap-hdpi/vectorialmap.png",
+        "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/mipmap-hdpi/vectorialmap.png"
+    },
+    {
         "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_ic_009.png",
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/mipmap-hdpi/ic_ic_009.png"
     },
@@ -118,5 +122,9 @@
     {
         "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_ic_001.png",
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/mipmap-hdpi/ic_ic_001.png"
+    },
+    {
+        "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/mipmap-hdpi/img_splash.png",
+        "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/mipmap-hdpi/img_splash.png"
     }
 ]

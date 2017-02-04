@@ -1,4 +1,4 @@
-#Fri Feb 03 14:35:20 BRT 2017
+#Fri Feb 03 17:44:04 BRT 2017
 base.0=/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6e3ac1e9c915260aedcc6092448fe86cfc7c559f
 renamed.1=classes.dex
 renamed.0=classes2.dex

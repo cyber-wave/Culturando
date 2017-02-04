@@ -5,33 +5,40 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="2168604060579"
+    timestamp="10646625715227"
     token="2692134240158494001"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="3769" />
+        duration="3685" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1348" />
+        duration="177" />
     <task
         name="verifier"
-        duration="625" />
+        duration="52" />
 
     <artifact
-        location="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="2168604060579"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="10323180373745"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="10646625715227"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

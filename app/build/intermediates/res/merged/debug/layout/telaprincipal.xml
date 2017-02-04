@@ -4,11 +4,33 @@
     android:layout_height="match_parent"
     android:layout_width="match_parent"
     android:id="@+id/telaprincipal"
-    android:baselineAligned="false">
+    android:baselineAligned="false"
+    >
 
-    <include android:id="@+id/menuPrincipal"
-        layout="@layout/menuprincipal">
-    </include>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/vectorialmap"
+        android:layout_alignParentTop="true"
+        android:scaleType = "fitXY"
+
+        android:id="@+id/backgroundprinc"
+        />
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="?attr/actionBarTheme"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/toolbarT"
+        android:background="@color/corMenu"
+        />
+
+
+
+
 
     <TextView
         android:text="Espaços Culturais"
@@ -254,5 +276,6 @@
         android:layout_marginEnd="17dp"
         android:layout_marginTop="18dp"
         android:onClick="chamaEspacoSobrado"/>
+
 
 </RelativeLayout>

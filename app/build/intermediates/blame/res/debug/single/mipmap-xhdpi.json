@@ -212,6 +212,10 @@
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/mipmap-xhdpi/ic_contato.png"
     },
     {
+        "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/mipmap-xhdpi/vectorialmap.png",
+        "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/mipmap-xhdpi/vectorialmap.png"
+    },
+    {
         "merged": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_ajuda.png",
         "source": "/media/davitabosa/DAVI TABOSA1/culturando ROAD TO THE VICTORY/app/src/main/res/mipmap-xhdpi/ic_ajuda.png"
     },
